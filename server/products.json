@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1tE4nK",
+    "category": "Glassware",
+    "name": "Bodega Glass 12 Oz",
+    "sku": "sku_313355",
+    "price": 295,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/bodega-medium-glass.jpg",
+    "description": "Made in Spain, Bodega glasses have a classic, clean design for every day sipping as well as gracious entertaining.",
+    "description_long": "Made in Spain, Bodega glasses have a classic, clean design for every day sipping as well as gracious entertaining. The medium-sized glass is a great choice for serving wine or mixed drinks. Offered in a set of 12, the glasses are made of tempered glass, making them more durable than regular glass.",
+    "currency": "USD"
+  },
+  {
+    "id": "IuFGYl",
+    "category": "Linen",
+    "name": "Egyptian Cotton Bath Towels",
+    "sku": "sku_313356",
+    "price": 4995,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/egyptian-cotton-bath-towels.jpg",
+    "description": "Luxurious Egyptian combed cotton, prized for the extra long fibers that enhance both absorbency and durability, is woven in plush terry toweling.",
+    "description_long": "These Egyptian cotton towels are certified by Oeko-Tex®, an international association focused on textile safety and sustainable production. Oeko-Tex® tests for known harmful substances and chemicals as well as for acidity and color fastness. All components of the product must comply with stringent Oeko-Tex® standards to achieve certification.",
+    "currency": "USD"
+  },
+  {
+    "id": "VfcByl",
+    "category": "Nightstands",
+    "name": "Cas Nightstand",
+    "sku": "sku_622147",
+    "price": 79900,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/cas-nightstand.jpg",
+    "description": "Cas plays modern with rustic wood, framing the rich color and defined grain of natural oak veneer in dark grey high-gloss lacquer.",
+    "description_long": "Cas plays modern with rustic wood, framing the rich color and defined grain of natural oak veneer in dark grey high-gloss lacquer. Tinted warm brown with hints of grey, planks of veneer arrange the nightstand's four drawers in seamless asymmetry.",
+    "currency": "USD"
+  },
+  {
+    "id": "1yF2Ib",
+    "category": "Coffee Machines",
+    "name": "Brim 19 Bar Espresso Machine",
+    "sku": "sku_125983",
+    "price": 39999,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/brim-19-bar-espresso-machine.jpg",
+    "description": "Become your own barista with this gleaming silver espresso machine.",
+    "description_long": "Constructed with a high-pressure Italian pump, the machine also offers low-pressure pre-infusion for precisely balanced flavor extraction. The unique Dry Steam process tops every espresso shot with rich crema, while the commercial-style, 360° swivel steaming wand froths milk into a dreamily texturized microfoam.",
+    "currency": "USD"
+  },
+  {
+    "id": "x5m8g3",
+    "category": "Counter Stools",
+    "name": "Curran Quilted Chocolate Counter Stool",
+    "sku": "sku_559961",
+    "price": 42900,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/curran-quilted-chocolate-counter-stool.jpg",
+    "description": "Sleek Italian design cradles comfort with a gracefully curved back that hugs the body.",
+    "description_long": "Sleek Italian design cradles comfort with a gracefully curved back that hugs the body. Upholstered in synthetic leather quilted with a handsome diamond stitch, the counter stool offers the look and feel of the real thing, with the added bonus of easy care and exceptional durability.",
+    "currency": "USD"
+  },
+  {
+    "id": "6Bh3pq",
+    "category": "Throws",
+    "name": "Eisen Obsidian Throw Blanket",
+    "sku": "sku_119140",
+    "price": 3500,
+    "image": "https://reedbarger.nyc3.digitaloceanspaces.com/crate-and-barrel/eisen-obsidian-cashmere-throw-blanket-40x70.jpg",
+    "description": "Ultra-soft yarns weave an open windowpane plaid in bold black and white.",
+    "description_long": "The delightfully fuzzy brushed finish and extra-long fringe complement the crisp, linear design, which reverses to the opposite pattern on the blanket's reverse side. Perfect for black-and-white decor, the Eisen obsidian throw blanket layers modern geometry and irresistible coziness on a sofa, armchair or bed.",
+    "currency": "USD"
+  }
+]
